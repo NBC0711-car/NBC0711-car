@@ -32,7 +32,7 @@
 
 ### 📫 Contact Me  
 <p align="center">
-  <a href="mailto:emailprueba@ejemplo.co">
+  <a href="mailto:nicolasbayacasal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-bay%C3%A1-casal-sansolini-37462b357/">
