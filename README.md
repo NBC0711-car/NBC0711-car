@@ -35,7 +35,7 @@
   <a href="mailto:emailprueba@ejemplo.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario/">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-bay%C3%A1-casal-sansolini-37462b357/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/NBC0711-car">
